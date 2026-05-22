@@ -1,0 +1,12 @@
+librosa
+numpy
+scipy
+torch
+torchaudio
+transformers
+fastapi
+uvicorn
+pandas
+scikit-learn
+matplotlib
+python-multipart
